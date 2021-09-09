@@ -1,0 +1,163 @@
+%!Adobe-FontList 1.22
+%Locale:0xc0a
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ChangaOne
+FamilyName:Changa One
+StyleName:Regular
+FullName:Changa One
+MenuName:Changa One
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\perroloco\Pictures\PERROloco\NFT\ROADMAP\Carpeta ROADMAP\Document fonts\ChangaOne-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:21300
+FileModTime:1322611200
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Changa One
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Exo2-Bold
+FamilyName:Exo 2
+StyleName:Bold
+FullName:Exo 2 Bold
+MenuName:Exo 2
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\perroloco\Pictures\PERROloco\NFT\ROADMAP\Carpeta ROADMAP\Document fonts\Exo2-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:130744
+FileModTime:1386115200
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Exo 2
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Exo2-BoldItalic
+FamilyName:Exo 2
+StyleName:Bold Italic
+FullName:Exo 2 Bold Italic
+MenuName:Exo 2
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Users\perroloco\Pictures\PERROloco\NFT\ROADMAP\Carpeta ROADMAP\Document fonts\Exo2-BoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:129924
+FileModTime:1386115200
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Exo 2
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Exo2-ExtraBold
+FamilyName:Exo 2
+StyleName:ExtraBold
+FullName:Exo 2 ExtraBold
+MenuName:Exo 2 ExtraBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\perroloco\Pictures\PERROloco\NFT\ROADMAP\Carpeta ROADMAP\Document fonts\Exo2-ExtraBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:130808
+FileModTime:1386115200
+WeightClass:800
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Exo 2 ExtraBold
+NameArray:0,Win,16,Exo 2
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Exo2-Light
+FamilyName:Exo 2
+StyleName:Light
+FullName:Exo 2 Light
+MenuName:Exo 2 Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\perroloco\Pictures\PERROloco\NFT\ROADMAP\Carpeta ROADMAP\Document fonts\Exo2-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:130600
+FileModTime:1386115200
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Exo 2 Light
+NameArray:0,Win,16,Exo 2
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Exo2-Regular
+FamilyName:Exo 2
+StyleName:Regular
+FullName:Exo 2 Regular
+MenuName:Exo 2
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\perroloco\Pictures\PERROloco\NFT\ROADMAP\Carpeta ROADMAP\Document fonts\Exo2-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:130624
+FileModTime:1386115200
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Exo 2
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\perroloco\Pictures\PERROloco\NFT\ROADMAP\Carpeta ROADMAP\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:1592620678
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
